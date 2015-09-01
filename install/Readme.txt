@@ -1,6 +1,6 @@
 @author: Bala
 
-Installation steps are for working in a debian distro like Ubuntu.
+Installation steps for working in a debian distro like Ubuntu.
 
 1) First step is to install emacs
          $ sudo apt-add-repository ppa:ubuntu-elisp/ppa
